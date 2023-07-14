@@ -118,3 +118,11 @@ footer {
     padding: 10px;
   }
 }
+.Jamaica{
+    background: linear-gradient(to right, red, black, green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
